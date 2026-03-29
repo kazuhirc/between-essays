@@ -103,7 +103,7 @@ The point, then, is not to replace humans with artifacts, but to build artifacts
 
 ## References
 
-This essay is Episode 00 of the _Reading Technical Bibles_ series: it introduces the lens—projection—that the later episodes will use. The references below are not authorities for the argument; they are optional lenses. ISO 1 is included as a minimal example of pinning a basis (20°C) to make comparison possible; Brooks frames design as deliberate choice under constraints; Evans explains why meaning boundaries demand contracts; Kleppmann maps how comparability breaks when Views multiply in data systems.
+This essay is a companion piece to the _Reading Technical Bibles_ series: it introduces the lens of projection that the later episodes will use. The references below are not authorities for the argument; they are optional lenses. ISO 1 is included as a minimal example of pinning a basis (20°C) to make comparison possible; Brooks frames design as deliberate choice under constraints; Evans explains why meaning boundaries demand contracts; Kleppmann maps how comparability breaks when Views multiply in data systems.
 
 - ISO 1101:2017, *Geometrical product specifications (GPS) — Geometrical tolerancing — Tolerances of form, orientation, location and run-out*
 - ASME Y14.5-2018, *Dimensioning and Tolerancing*
