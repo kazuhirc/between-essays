@@ -1,12 +1,13 @@
-# between-essays-private
+# between-essays
 
-This repository is the authoring SSOT for Between essays.
+Bilingual essays on design, comparability, and boundaries across mechanics and software.
 
-Scope
-- published/ : public-ready content
-- drafts/    : private drafts, notes, and working material not intended for publication
+## Scope
 
-Rule
-Edit in this repository.
-Publish by mirroring only public-ready content to between-essays.
-Drafts are kept private by default.
+- `ja/` : Japanese essays and series content
+- `en/` : English essays and series content
+
+## Notes
+
+This repository contains the public-facing edition of Between essays.
+Drafts and private working notes are maintained separately.
