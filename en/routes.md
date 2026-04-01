@@ -21,15 +21,16 @@ Legacy tool pain then vocabulary. Use when you start from concrete failures.
 
 **Route B Structure to Application**
 
-| Order | Essay                              | Link                                                                                                                                                             |
-| ----: | ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|     1 | Why 5W1H Breaks                    | [./essays/why-5w1h-breaks-in-software-architecture.md](./essays/why-5w1h-breaks-in-software-architecture.md)       |
-|     2 | From Explanation to Operation      | [./essays/from-explanation-to-operation.md](./essays/from-explanation-to-operation.md)                             |
-|     3 | Design as Triage under Constraints | [./essays/design-as-triage-under-constraints.md](./essays/design-as-triage-under-constraints.md)                   |
-|     4 | Between Mechanics and Software     | [./essays/between-mechanics-and-software.md](./essays/between-mechanics-and-software.md)                           |
-|     5 | Industrial Quantities              | [./essays/industrial-quantities-and-procedure-bundles.md](./essays/industrial-quantities-and-procedure-bundles.md) |
-|     6 | Observation Point Design           | [./essays/observation-point-design.md](./essays/observation-point-design.md)                                       |
-|     7 | Reading Technical Bibles           | [./series/index.md](./series/index.md)                                                                             |
-|     8 | Origin               | [./essays/origin.md](./essays/origin.md)                                                                           |
+| Order | Essay | Link |
+| ----: | ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1 | Why 5W1H Breaks | [./essays/why-5w1h-breaks-in-software-architecture.md](./essays/why-5w1h-breaks-in-software-architecture.md) |
+| 2 | From Explanation to Operation | [./essays/from-explanation-to-operation.md](./essays/from-explanation-to-operation.md) |
+| 3 | Design as Triage under Constraints | [./essays/design-as-triage-under-constraints.md](./essays/design-as-triage-under-constraints.md) |
+| 4 | What Appears When Execution Gets Cheap | [./essays/what-appears-when-execution-gets-cheap.md](./essays/what-appears-when-execution-gets-cheap.md) |
+| 5 | Between Mechanics and Software | [./essays/between-mechanics-and-software.md](./essays/between-mechanics-and-software.md) |
+| 6 | Industrial Quantities | [./essays/industrial-quantities-and-procedure-bundles.md](./essays/industrial-quantities-and-procedure-bundles.md) |
+| 7 | Observation Point Design | [./essays/observation-point-design.md](./essays/observation-point-design.md) |
+| 8 | Reading Technical Bibles | [./series/index.md](./series/index.md) |
+| 9 | Origin | [./essays/origin.md](./essays/origin.md) |
 
 Place the coordinate system first then verify by examples.

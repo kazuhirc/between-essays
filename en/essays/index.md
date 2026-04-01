@@ -13,3 +13,4 @@
 - Why VBA in Excel Still Works: [./why-vba-in-excel-still-works.md](./why-vba-in-excel-still-works.md)
 - From Explanation to Operation: [./from-explanation-to-operation.md](./from-explanation-to-operation.md)
 - Design as Triage under Constraints: [./design-as-triage-under-constraints.md](./design-as-triage-under-constraints.md)
+- What Appears When Execution Gets Cheap: [./what-appears-when-execution-gets-cheap.md](./what-appears-when-execution-gets-cheap.md)
