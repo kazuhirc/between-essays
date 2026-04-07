@@ -15,7 +15,8 @@ This page shows only the reading order. For the overview, see the index.
 |     4 | Stop Before It Spreads         | [./essays/stop-before-it-spreads.md](./essays/stop-before-it-spreads.md)                                   |
 |     5 | Why VBA in Excel Still Works   | [./essays/why-vba-in-excel-still-works.md](./essays/why-vba-in-excel-still-works.md)                       |
 |     6 | Between Mechanics and Software | [./essays/between-mechanics-and-software.md](./essays/between-mechanics-and-software.md)                   |
-|     7 | Reading Technical Bibles       | [./series/index.md](./series/index.md)                                                                     |
+|7|The Layer That Keeps Work from Breaking|[./essays/the-layer-that-keeps-work-from-breaking.md](./essays/the-layer-that-keeps-work-from-breaking.md)|
+|     8 | Reading Technical Bibles       | [./series/index.md](./series/index.md)                                                                     |
 
 Legacy tool pain then vocabulary. Use when you start from concrete failures.
 

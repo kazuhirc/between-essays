@@ -14,7 +14,8 @@
 |4|広がる前に止める|[./essays/stop-before-it-spreads.md](./essays/stop-before-it-spreads.md)|
 |5|なぜ Excel の VBA はまだ効くのか|[./essays/why-vba-in-excel-still-works.md](./essays/why-vba-in-excel-still-works.md)|
 |6|機械とソフトウェアのあいだ|[./essays/between-mechanics-and-software.md](./essays/between-mechanics-and-software.md)|
-|7|Reading Technical Bibles|[./series/index.md](./series/index.md)|
+|7|壊さずに回すための基盤|[./essays/the-layer-that-keeps-work-from-breaking.md](./essays/the-layer-that-keeps-work-from-breaking.md)|
+|8|Reading Technical Bibles|[./series/index.md](./series/index.md)|
 
 レガシーな現場の痛みから始めて、語彙へ進む導線。
 

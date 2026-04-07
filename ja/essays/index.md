@@ -8,6 +8,7 @@
 - Observation Point Design: [./observation-point-design.md](./observation-point-design.md)
 - Stop Before It Spreads: [./stop-before-it-spreads.md](./stop-before-it-spreads.md)
 - Between Mechanics and Software: [./between-mechanics-and-software.md](./between-mechanics-and-software.md)
+- The Layer That Keeps Work from Breaking: [./the-layer-that-keeps-work-from-breaking.md](./the-layer-that-keeps-work-from-breaking.md)
 - Industrial Quantities: [./industrial-quantities-and-procedure-bundles.md](./industrial-quantities-and-procedure-bundles.md)
 - Why 5W1H Breaks: [./why-5w1h-breaks-in-software-architecture.md](./why-5w1h-breaks-in-software-architecture.md)
 - Why VBA in Excel Still Works: [./why-vba-in-excel-still-works.md](./why-vba-in-excel-still-works.md)
